@@ -1,0 +1,7 @@
+PyQt5==5.15.9
+SQLAlchemy==2.0.15
+bcrypt==4.0.1
+reportlab==4.0.4
+pillow==10.0.0
+pandas==2.0.2
+qrcode==7.4.2
